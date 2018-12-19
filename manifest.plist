@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.gleasy.com/asset/platform/softwares/gleasyIos/download/test/GleasyApp.ipa</string>
+					<string>http://192.168.0.104:8080/GleasyApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
